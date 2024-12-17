@@ -6,7 +6,7 @@
 <td valign="middle" style="vertical-align: middle;">
 
 - 👋 Hi, I’m @Carmen-Rosas
-- 👀 I’m interested in Full-Stack Development
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me via email: carmen.rosas.cancio.suarez@gmail.com
 
